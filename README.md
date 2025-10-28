@@ -32,7 +32,7 @@ The project was completed as part of **COS60011 – Technology Design Project (S
 👉 [View Image](images/figure2_lasso.png)
 
 **Step 11A vs Step 11B – Effect of IC-Scaling**  
-👉 [View Image](images/figure3_ic-scaling.png)
+👉 [View Image](images/figure3_ic_scaling.png)
 
 **Stress Test Results (R/R = 2:1 vs R/R = 3:1)**  
 👉 [View Image](images/figure4_rr_stress.png)
