@@ -23,6 +23,9 @@ The project was completed as part of **COS60011 – Technology Design Project (S
 
 ---
 
+### 📊 Key Results
+Below are representative visualisations summarising model training, feature selection, and backtesting performance.
+
 ### 📈 Visualisations
 
 **Walk-forward Validation (2y Train → 1y Test)**  
