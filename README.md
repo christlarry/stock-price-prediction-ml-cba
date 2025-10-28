@@ -29,7 +29,7 @@ The project was completed as part of **COS60011 – Technology Design Project (S
 👉 [View Image](images/figure1_walkforward.png)
 
 **LASSO-Selected Top 5 Factors**  
-👉 [View Image](images/figure2_lasso.png)
+👉 [View Image](images/figure2_lasso.png) 
 
 **Step 11A vs Step 11B – Effect of IC-Scaling**  
 👉 [View Image](images/figure3_ic_scaling.png)
