@@ -25,17 +25,17 @@ The project was completed as part of **COS60011 – Technology Design Project (S
 
 ### 📈 Visualisations
 
-**Walk-forward Validation (2y Train → 1y Test)**
-![Walk-forward](images/figure1_walkforward.png)
+**Walk-forward Validation (2y Train → 1y Test)**  
+👉 [View Image](images/figure1_walkforward.png)
 
-**LASSO-Selected Top 5 Factors**
-![LASSO Factors](images/figure2_lasso.png)
+**LASSO-Selected Top 5 Factors**  
+👉 [View Image](images/figure2_lasso.png)
 
-**Step 11A vs Step 11B – Effect of IC-Scaling**
-![IC-Scaling Comparison](images/figure3_ic-scaling.png)
+**Step 11A vs Step 11B – Effect of IC-Scaling**  
+👉 [View Image](images/figure3_ic-scaling.png)
 
-**Stress Test Results (R/R = 2:1 vs R/R = 3:1)**
-![Stress Test](images/figure4_rr_stress.png)
+**Stress Test Results (R/R = 2:1 vs R/R = 3:1)**  
+👉 [View Image](images/figure4_rr_stress.png)
 
 ## 🧠 Files
 | File | Description |
