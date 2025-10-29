@@ -52,5 +52,6 @@ Below are representative visualisations summarising model training, feature sele
 ## 🚀 Usage
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/BobLin-AU/stock-price-prediction-ml-cba.git
+   git clone https://github.com/christlarry/stock-price-prediction-ml-cba.git
    cd stock-price-prediction-ml-cba
+
